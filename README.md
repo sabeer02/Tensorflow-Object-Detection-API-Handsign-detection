@@ -3,7 +3,7 @@ This is a project where we will be using tensorflow object detection API to dete
 
 
 To collect dataset using OpenCv 
-and to label the datsets you can use any softwares or applications
+and to label the datsets you can use any softwares or applications, 
 I used LabelImg.py, you can find those setup in youtube
-And finally The main source code file is self-explanatory 
+And finally The main source code file is self-explanatory, 
 I used google collab as an IDE
